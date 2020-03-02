@@ -8,8 +8,9 @@ Sofltalkを使わせて頂きました。
 ### 実行手順
 1. wav_sector.ipynb
 2. create_dataset.ipynb
-3. wav_Descri2.ipynb
+3. wav_Descrix.ipynb
 4. UseModel.ipynb
 
 ### 課題
-もっとネットワーク小さくできそうなので試してみる
+- もっとネットワーク小さくできそうなので試してみる
+- もっとキャラの数増やしたらどうなるか
